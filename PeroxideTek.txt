@@ -1,0 +1,399 @@
+
+Acquiring, Storing and Maintaining Mushroom Cultures 
+
+Using slants instead of agar plates 
+
+Back to Contents 
+
+It has long been the standard procedure in mycology to grow mushroom tissue cultures in Petri dishes filled with agar medium. But as more and more people seek to cultivate mushrooms without sterile laboratories, this standard has come into question. Perhaps the biggest drawback of agar Petri dish culture for mushrooms is that the dishes have such a large exposed surface area, and they are incubated for so long, that the chance of picking up airborne contamination is high. Even with peroxide in the agar, mold colonies will occasionally appear at the edges of plates, especially after the mycelium has spread over most of the agar, and especially during the "mold season" in the fall. 
+
+One solution to the problems of agar Petri dish culture is to switch to agar culture in containers that have smaller exposed surface area--for instance, screw cap test tubes (typical dimensions are 19 x 125 mm.). These are relatively easy to handle and store, and the mouths of the tubes can be readily held over the flame of an alcohol lamp for a moment on opening and closing, for added security against contaminants. The water in these tubes evaporates much more slowly than in Petri dishes, so the peroxide concentration remains at an effective level for much longer. Even without peroxide, the contamination rate is low. What’s more, slants use less agar than Petri dishes, so they save you money. The downsides are: some mushrooms don’t like the wetter environment in slants (for example, H. ulmarius); you can't monitor the morphology of the mycelium as closely in slants as on agar plates (changes in morphology can indicate contamination or other strain problems); and it can be frustratingly difficult to dig out chunks of mycelium from slants when you want to inoculate other cultures (this depends quite a bit on the kind of mycelial mat a given mushroom lays down). 
+
+Making slants 
+
+Back to Contents 
+
+Here's how to make a set of slants: 
+
+1. Measure out the ingredients for MYA medium (see below--250 mls. will make about 20 slants or so) into a clean metal can. Squeeze a crimp in the rim of the can to serve later as a pour spout. 
+2. Put a piece of aluminum foil over the top of the can, and put the can in your pressure cooker with some water. Put your screw cap tubes in at the same time, perhaps sitting in another can. 
+3. Steam for 10 minutes without the weight in place, then put the weight on, bring the cooker to full pressure, and cook for 10 minutes more. 
+4. Remove the cooker immediately from the heat and cool. Open the cooker as soon as the pressure has gone down, and take out the can and the tubes to cool. You can set the can in a pan of warm water to speed the cooling, but don’t let it start to solidify. 
+5. Add peroxide (1.5 mls. for 250 mls. of MYA medium) with a pasteurized pipette (i.e., one steeped briefly in boiling water) and mix it in by swirling the can. 
+6. Finally pour the agar into the tubes, using the pour spout on the can to get the agar into the narrow mouths of the tubes without spilling over the tube threads. Hold the screw cap curled in the little finger of your dominant hand while you do the pouring. 
+7. Replace each cap and set the tubes in a bowl as you finish each one, so that they cool at a slant. When cool, they are ready to use. 
+
+
+For easy reference, here's the recipe that I use for MYA Medium (from Volume I): 
+
+12 gms (0.35 oz) agar 
+12 gms (0.42 oz) light malt powder 
+1 gm ((0.035 oz) nutritional yeast powder 
+0.5 gm (0.017 oz) grain flour (I rotate between wheat, rye, corn, rice, oats, and millet) 
+0.5 gm (0.017 oz) rabbit feed (or other animal feed pellets) 
+5-7 wood fuel pellets (the number of wood pellets can be increased for those wood-decomposing species that do poorly on agar) 
+1 liter tap water 
+(Adjust pH to 6-8 with a bit of baking soda or vinegar) 
+
+Making transfers to and from slants 
+
+Back to Contents 
+
+For inoculating slants, and for withdrawing mycelium from them, it helps to have an inoculating loop made of fairly stiff wire. You can make an inoculating loop for yourself by putting a small loop in the end of a wire, then inserting the other end of the wire in a thin glass tube (1/8 inch, for example). Finally, use a flame to melt the end of the glass tube closed over the wire to hold it in place. The glass tube becomes the handle. 
+
+For successful inoculation, you will still need to dig out a chunk of agar plus mycelium and transfer it to the slant. This can be a tricky endeavor with an inoculating loop. (If the chunk is too small, or if you simply scrape mycelium off the surface of the agar, it may not be able to establish itself. But if at first you don’t succeed, you can always try again with the same slant, since the peroxide will keep it free of contaminants.) I like to dig the loop into the agar to cut out a piece of the culture, but it can still be hard to catch a good-sized piece on the loop.. Many times I’ve pulled out such a piece only to have it drop off the loop as I moved to transfer it. But eventually you’ll do it. Roll the mouth of the screw cap tube in the flame of your alcohol lamp before and after the transfer. 
+
+Cleaning the mycelium with slants 
+
+Back to Contents 
+
+In Volume I of Growing Mushrooms the Easy Way, I explained how invisible microbial contamination can build up on the mycelium of cultures grown by the peroxide method, and I presented a method for "cleaning" the mycelium of these contaminants by inoculating the bottom of the agar in Petri dish cultures. With slants, the invisible contaminants should build up quite a bit more slowly than with Petri dishes, but they will eventually accumulate to the point where the mycelium needs cleaning. There is, however, no convenient way to inoculate the bottom of the agar, so we have to use a different method. This method consists of pouring a second layer of agar--when it is almost cool enough to solidify--on top of mycelium growing on the first layer of agar. The mycelium then grows up through the second layer, cleaning itself as it goes. 
+
+Here’s what to do: 
+
+1) Prepare and inoculate slants as described above. Allow the mycelium to grow out a bit over the agar. 
+2) Prepare a small amount of MYA medium by the standard procedure, but use a can with a crimp in the rim for a pour spout (as for making slants above) to hold the medium, and cover it with aluminum foil. 
+3) After cooking, when the medium has cooled substantially, add peroxide at the usual concentration and mix thoroughly by gentle swirling. 
+4) When the bottom of the can is barely warm to the touch, light your alcohol lamp. Open a slant, holding the cap in the crook of your little finger, rotate the mouth of the tube over the flame of the alcohol lamp, and then pour enough of the fresh agar medium into the tube to cover the mycelium completely (you can either cover the mycelium with the tube "slantwise" or with the tube standing upright). The less agar you use, the smaller distance the mycelium will have to grow to reach the surface. Beware! The remaining agar in the can tends to solidify rather suddenly, so put it in a pan of water that is slightly warm. 
+5) Return the screw cap to the tube. 
+6) Allow the mycelium to grow up through the new layer of agar. 
+
+When taking out mycelium for inoculations, be careful not to dig through the top layer of agar into the lower layer, or you will defeat the purpose of the layering. 
+
+Starting with Spores 
+
+Back to Contents 
+
+I usually urge would-be mushroom growers to begin their mushroom explorations with healthy, established tissue cultures of the mushroom species they want to grow, obtained from reputable suppliers of mushroom cultures. Such cultures have been tested and shown to produce good yields of mushrooms under certain reproducible conditions. Unless the culture is subsequently damaged, it will continue producing good yields of mushrooms when you supply the right conditions. And if you lose the culture, you can (in most cases) go back to your supplier and obtain another copy, which will produce mushrooms under the same conditions that worked well for the previous copy. If you start with spores, by contrast, there is no assurance that the mycelial culture you grow from them will fruit in useful quantities, or that the mushrooms produced will have the characteristics of the mushroom the spores came from. You also will not know the optimal growing conditions for the strain you obtain by spore germination until you have tested the strain yourself. And if you lose the culture, you will have to start over again from scratch. 
+
+Still, there are arguments on the other side. Cultures obtained by spore germination are often quite vigorous. With fast growing species like oyster mushrooms, the differences between the parent mushroom and the spore-produced progeny are often small. Spores may cost little or nothing, whereas tissue cultures can be expensive. Spores can be obtained from dried mushrooms whereas tissue cultures can't. And so on. So it is certainly worthwhile to have a simple method of germinating spores. 
+
+In previous editions of the peroxide manual, I insisted that spores could not be germinated on peroxide medium. But a couple of people wrote me to say that they had indeed germinated spores in the presence of peroxide. So now I have to acknowledge that yes, it can be done--generally only if you can apply a concentrated dot of millions of spores to the surface of the peroxide medium, but it can be done. Still, I am not convinced it is a good idea for routine use. The mycelium generated this way could easily be genetically damaged. And as it turns out, it is not especially hard to start clean cultures from spores in the absence of peroxide, even in a non-sterile environment. One good method is to start the spores in screw-cap slants, so the chance of airborne contamination entering is reduced compared to Petri dishes (many thanks to David Sar for letting me know about this approach). 
+
+Making slants for spore germination 
+
+Back to Contents 
+
+To make these slants, follow the usual protocol for making MYA medium, with just a couple of changes. The slants will not have peroxide in them, and that means you can 
+1) melt the agar medium by steaming for 10 minutes, then 
+2) pour the melted medium into the tubes, 
+3) close the caps loosely, and pressure cook the tubes with the agar inside them. 
+4) Finally, let the pressure come down on the cooker, remove the tubes, and let the agar solidify with the tubes in a slanted position. 
+
+
+As an alternative, you can sterilize the medium and the tubes separately, then pour the agar into the tubes when the agar is still hot, straight out of the pressure cooker if possible (use thick rubber gloves to handle them). Then let them cool and solidify with the screw caps in place, slightly loose so the pressure equilibrates. 
+
+To start spores for one kind of mushroom, you’ll probably want five or six slants, so you can lose a couple to contamination. Also, they may not all germinate. 
+
+Collecting Spores 
+
+Back to Contents 
+
+Here's a way to collect spores: 
+1) Pressure cook a few Petri dishes for 15 minutes or so in a covered container. Let the dishes cool. 
+2) Pick a mature mushroom for your source of spores, preferably a clean one that is not likely to be covered with mold spores. 
+3) Clear a counter someplace in your house where there won’t be too many air currents from people walking by. Clean the counter with a sponge and then wipe it down with rubbing alcohol. 
+4) Open one of your Petri dishes (you can just set the lid, top surface up, next to the dish on the counter) and arrange your mushroom over the dish. If it is big enough, the mushroom can cover the entire bottom half of the Petri dish. Or perhaps you have a cluster that can span the dish. Smaller mushrooms, or mushrooms with odd shapes like morels, can be suspended above the plate by a thread. Use your imagination. Ideally, you don’t want the mushroom touching the inside of the Petri dish bottom, and you don’t want too much of the Petri dish exposed to airborne contaminants, but you want the mushroom arranged so its spores can fall into the dish. 
+5) Depending on the mushroom and the rate of spore fall, go ahead and collect spores until you have a visible coating of spores (this takes about an hour for a copious spore-producers like the oyster mushrooms, but you might need to go overnight for some mushroom species), then close up the Petri dish. 
+
+
+Germinating Spores 
+
+Back to Contents 
+
+Here's one way to germinate spores: 
+1) Set up and light an alcohol lamp. Have your non-peroxide slants nearby, and your Petri dish of spores. 
+2) Sterilize an inoculating loop in the hot part of the flame. 
+3) Open one of the slants (removing the cap with your little finger), roll the mouth in the flame, and plunge the inoculating loop into the agar, trying to pick up a bit of agar on the loop to make it sticky. Withdraw the loop, roll the mouth of the tube in the flame again, and replace the lid on the tube. 
+4) Open the Petri dish of spores and draw the inoculating loop over the bottom surface of the dish, through the coating of spores. 
+5) Open the slant again, roll the mouth in the flame, and insert the inoculating loop, this time drawing the loop over the surface of the agar. 
+6) Withdraw the loop, flame the mouth of the tube and replace the cap tightly. 
+7) Incubate the inoculated slants. Germination can take anywhere from a few days to a few weeks, depending on the mushroom species. 
+
+
+Eventually, you should see some small white colonies of growth appearing in the slants. You will have to distinguish the colonies of mushroom mycelium from any colonies of contaminants. Some molds will also make colonies that are white at first, but they will turn blue or green as they start to sporulate. Wild yeast and bacteria can make shiny colonies that are light colored, but they will not generally be white, nor will they develop fibrous mycelium. As soon as you are reasonably sure that you have a colony of mushroom mycelium, you should transfer it to peroxide medium. 
+
+On a peroxide-treated agar plate, you can observe the halo of growth formed by the spreading mycelium. If the mycelium is not homogeneous or it carries contaminants, the halo will likely show sectors that grow at different rates and with different appearances. You can then take mycelium from the best-looking sectors--with good radial or rhizomorphic growth--for transfer to fresh plates. Once you have stable, non-sectoring mycelium, you are ready to make spawn and test your strain in bulk substrate. And don't forget to make storage cultures! 
+
+Ideas Toward Mycelial Culture without Agar 
+
+Back to Contents 
+
+Agar is probably the most expensive ingredient used in mushroom growing. And although it is relatively simple to handle once you've been introduced to it, many beginning mushroom growers undoubtedly avoid getting their own cultures because of their unfamiliarity with agar. So I have been thinking about alternatives. Here I suggest one simple choice that shows promise as an alternative to agar medium--it’s gray cardboard disk culture. Gray cardboard is cheap and reasonably available, and as long as it is clean, it will not contain any peroxide-decomposing enzymes. Unlike corrugated cardboard, gray cardboard wets easily and the wet material is soft enough to remove clumps for transfers. It is also a good substrate for the growth of mushroom mycelium, often supporting rapid growth even when very limited amounts of other nutrients are present. And it is a simple matter to add a nutrient solution if you need it. 
+
+So, instead of going through all the trouble of weighing ingredients for agar medium, melting the agar, cooling slowly, adding peroxide, pouring plates, waiting for them to solidify, then drying them for a couple of days, you can just cut disks of gray cardboard to fit your Petri plates or jars, add a measured amount of water to the disks, and prepare a jar of plain water or a simple nutrient solution. Then, pop the plates and the jar of liquid in the pressure cooker for 10 minutes, cool rapidly, and add peroxide to the jar of liquid. Finally, transfer a measured amount of the solution to the cardboard to give it peroxide protection. The cardboard plates are then ready to use as soon as the solution has soaked in. 
+
+Where gray cardboard is in short supply, newsprint is a possible substitute, but it has several drawbacks compared to cardboard. For one thing, it can be hard to see the mycelium, particularly if the newsprint is light in color. The mycelium can be as wispy as a spider web when it is growing on newsprint anyway, and to complicate matters it may spread more beneath the surface, out of view, than in plain sight. Moreover, the growth rarely develops in a nice round halo such as one gets on agar, nor does it necessarily progress evenly from one layer of newsprint to the next. Instead, the mycelium can spread somewhat capriciously, apparently influenced by small variations in the conditions it encounters between the layers of the newsprint. 
+
+I do not yet know whether mycelium can be repeatedly transferred on plain, unsupplemented cardboard without running into nutrient limitations. I would expect cardboard to be close to devoid of nitrogen, so until further notice, it is probably a good idea to add a nutrient solution to keep your mycelium going on cardboard disks. 
+
+How to prepare the plates 
+
+Back to Contents 
+
+Here are the detailed steps for making cardboard plates. Note that you can also use small jars in place of Petri dishes. 
+
+1) Measure about 100 mls. of tap water into a small jar. 
+2) For nutrients, , measure another 100 mls. of tap water into a second jar and add one drop of ordinary soy sauce to the water, and a quarter teaspoon (1.25 mls.) of molasses or light malt powder. 
+3) Find some gray cardboard, the thicker the better, preferably gray on both sides. Trace a Petri plate onto the cardboard with a pencil and cut out several disks to fit into your plates. 
+4) Weigh one of your disks and record the weight. Multiply this weight by a factor of 1.3 as a rough guide (you may need to experiment with the amounts here), and add the resulting weight of tap water or nutrient solution to each disk in its Petri plate. (Remember, 1 ounce of water equals 28.35 grams; one gram equals one milliliter.) Example: Suppose my disks weighed 0.17 ounces each. Multiplying 0.17 by 1.3, I get 0.22 ounces. There are 28.35 grams in an ounce, so 0.22 ounces x 28.35 equals 6.3 grams. That means I'll add 6.3 milliliters of solution to each disk. 
+5) Close up the disks in the plates, and let the water or nutrient solution soak in. 
+6) Pressure-sterilize the jar of plain water, and the Petri plates with moistened newsprint disks inside, for 10 minutes at 15 psi (allowing the cooker to equilibrate steam for 10 minutes before putting on the pressure regulator). 
+7) Cool the cooker, and remove the plates and jar of plain water. 
+8) When the water has cooled, add 3.3 mls. 3% peroxide to the jar, using a pasteurized pipette, to give you a final concentration of about 0.1% peroxide in sterile water. 
+9) Add about one third of the initial weight of the cardboard as 0.1% peroxide to each disk. Let the solution soak completely into the disks. They are now ready to use. 
+
+
+You can store and incubate these plates inside plastic food storage bags as I suggest in Volume I for agar plates. But you will probably find that your cardboard disks dry out too quickly. You can keep them moist longer by storing them in a closed container that has some peroxide solution in the bottom. For instance, find a plastic yogurt container or a jar with a mouth wide enough to let Petri dishes pass. Then create a platform to hold your Petri dishes off the bottom of the container, perhaps by putting a smaller jar inside the larger container. Put the Petris on top of the platform. Then add a small quantity of peroxide solution to the container at the same concentration you use for your plates (roughly 0.018%). Finally, cover the container with a layer of plastic wrap and fix it in place with a rubber band around the mouth of the container (this kind of closure will allow adequate oxygen diffusion). Be careful to set it up so that you cannot knock your Petri dishes off the platform into the water. 
+
+Making transfers 
+
+Back to Contents 
+
+Now you are probably wondering how you will remove wedges of cardboard when you want to make a transfer from one of these plates. Well, you won't cut wedges, but here’s the trick: you can easily scrape material off the surface of the moist disks using the point of a sterile scalpel. Just draw the scalpel tip firmly sideways across the cardboard a few times in one place. The scrapings can then be transferred to another plate or to a jar of spawn with the scalpel. 
+
+Corrugated cardboard turns out to be too tough for easy removal of material from the surface by scraping in this fashion. 
+
+Cleaning the mycelium 
+
+Back to Contents 
+
+As I explained in Volume I and in the section on slants above, invisible contaminants from the air can build up on the surface of mycelium that has been grown on peroxide plates, since the peroxide protects the medium but not the mycelium. The invisible contaminants have to be cleaned off periodically, or else they will proliferate in spawn or fruiting cultures. Mycelium grown on cardboard is no exception. 
+
+With agar cultures, we cleaned the mycelium with the rather awkward measure of prying the agar disk out of the bottom of the Petri plate into the lid, then inoculating the bottom of the agar, then returning the agar disk to its original place. This forced the mycelium to grow up through the medium, leaving contaminants behind. Although this works, it also increases the failure rate because it is such a tricky maneuver. 
+
+With cardboard, it is easy to inoculate the bottom of the disk: you can just flip the plate upside down, so that the disk falls into the lid and the bottom of the disk is exposed. Then transfer a sample of mycelium to the exposed surface with a flame-sterilized scalpel, close up the plate, and flip it back over. Voila! But as it turns out, the mycelium takes a surprisingly long time to grow through the disk, preferring instead to spread laterally. So rather than waiting for the mycelium to grow to the top, we can simply allow it to spread on the bottom of the disk. As long as it is left undisturbed, the mycelium then will grow entirely under the cover of cardboard, so that it has very little exposure to airborne contaminants. This in itself should keep the mycelium clean, especially if the cardboard disk sits nearly flat on the bottom of the plate. If you routinely inoculate your plates this way, and you take material toward the edge of the mycelial halo for your transfers, I expect you should have little problem with accumulation of invisible contaminants. 
+
+If you have trouble getting your disks to sit flat on the bottom of your Petri plates, you may have better luck by creating a sandwich of cardboard with two sterile peroxide-moistened disks, inoculating the inside of the sandwich, between the disks. The mycelium then will grow entirely within the sandwich, keeping it free of airborne contamination. The dry quality of the cardboard surface on both sides of the mycelium, in addition, should discourage the spread of bacteria and yeast, so that the mycelium can clean itself as it spreads laterally within the sandwich. 
+
+When you want to get at the protected mycelium inside the sandwich, you pry apart the pieces of cardboard. Because you cannot see how far the mycelium has grown without opening it, you will have to be careful about dating your cultures, so you can be sure you have allowed enough time for the mycelium to grow out before you open the sandwich. 
+
+Storage cultures without agar 
+
+Back to Contents 
+
+Freshly inoculated cardboard "sandwiches" can easily be picked up with a pair of tweezers (sterilized in a flame) and transferred to small ziplock plastic bags for storage. After transfer, allow the mycelium to grow out for a week or two. As an alternative, narrow strips of sterilized, moistened cardboard could be inoculated with small chunks of agar culture, then with the help of a flame-sterilized tweezers slipped into sterile screw cap tubes for storage. When it was time to retrieve the culture from storage and grow it out again , a given strip could then be carefully withdrawn and transferred to a sterile Petri dish or a jar, where the mycelium could be more easily scraped from the surface of the cardboard. Yet another choice would be to load some moistened sawdust or paper fiber pellets (broken into small bits after moistening) into screw cap tubes, pressure sterilize for 10 minutes, cool, and inoculate with a bit of agar culture. After the mycelium has grown out, the culture can be put in storage. Then, it should be possible to remove a bit of the culture by means of an inoculating loop or scalpel for transfer to new medium when needed. 
+
+I have not yet had enough time to determine how well these cultures hold up in long-term storage, but I suspect they will do better than agar cultures, since paper fiber and cardboard more closely resemble natural substrate for mushroom mycelium. If you don't add any nutrient solution, the medium will be quite lean, as is usually recommended for storage cultures; this both encourages dormancy and prevents an accumulation of toxic waste products that the mycelium would produce in a richer medium in long term storage. At the same time, species such as oyster mushrooms that do not do well in wet storage (that is, distilled water or slants) may find the cardboard medium more to their liking, since it has a drier character. In addition, paper fiber and cardboard cultures of cold-tolerant strains like those of oyster mushrooms can easily be frozen. 
+
+Sending cultures in the mail 
+
+Back to Contents 
+
+Just as paper and cardboard cultures can easily be stored in plastic ziplock baggies, so too can they be sent out in the mail this way. Make a sandwich of mycelium between two thin disks of gray cereal-box cardboard that have been sterilized and moistened with peroxide solution. (The colored side of the cardboard faces out, acting to help hold moisture in and keep potential contaminants sealed out.) Then, with a tweezers, pop this sandwich into the smallest ziplock bag you can find, zip it closed, and let it grow out for a few days. Put something heavy on top of the bag like a book, to hold the sandwich tightly closed as the mycelium stitches it together. (Instead of a ziplock bag, you can also cut off a corner section of a non-ziplock plastic food storage bag, fold it over neatly, and tape it closed.) Finally, send it off. The recipient at the other end will just need to transfer the mycelium to a fresh plate. To do so, he or she will need to remove the disks to a sterile Petri plate or jar, then pry the sandwich open with a tweezers to get at the mycelium, which has been kept clean and protected inside. 
+
+This method of mailing cultures in ordinary envelopes is probably limited to species whose mycelium can tolerate the low temperatures reached in the cargo hold of a jet plane. Warm-growing species such as the almond mushroom (Agaricus subrufescens) may need to be packed in insulated containers to keep them from freezing. 
+
+Spawn Preparation 
+
+Spawn in plastic bags -- "Eight Minute Spawn" 
+
+Back to Contents 
+
+In Growing Mushrooms the Easy Way, I presented a procedure for preparing pellet-fuel based spawn quickly and easily using glass jars as containers. This is still my own preferred method for making spawn, but I have worked out variations on this method so that it can be adapted to additional situations. 
+
+
+For instance, perhaps you don’t have a collection of jars, but you can easily get fresh clear plastic bags ("food storage bags"). You can easily use these bags as spawn containers--in fact, they offer certain advantages over jars. For one thing, you don’t need to add paper fiber pellets to the spawn recipe when using bags, which simplifies the formulation process, saves money, and gives you a more finely divided spawn at the same time. (The pellets were there to make it possible to break up the spawn by agitating the jars. With plastic bags, you can break up the spawn by manipulating the bags). For another thing, air exchange into the plastic bags seems to be greater than that into jars, because oxygen can enter through the plastic but not through glass. This speeds up growth of spawn somewhat in the plastic bags. And, the spawn bags heat and cool more quickly than jars, so the steaming process can be completed even more quickly than before. The bags also save the trouble of preparing cardboard disks to fit in the jar lids, and of cleaning the jars. And finally, the bags allow you to smell the spawn without opening it, because the fragrance escapes through the plastic. This allows you a way to check for purity of the spawn other than just by looking at it. Bacterial and mold contamination will introduce a sour or moldy smell, and each mushroom species has a characteristic fragrance. 
+
+
+On the other side of the equation, the bags create non-biodegradable waste (although they can be washed and re-used). The bags also can get pin-holes in them which you can’t see. And, they are not especially convenient when you want to remove just a small portion of the spawn at a time (with jars, you can remove the lid, shake out some spawn into a waiting container, then replace the lid). For the latter reason, I still make my spawn masters (which I use for inoculating additional spawn) in jars. 
+
+Making the spawn 
+
+Back to Contents 
+
+Here’s a recipe for preparing six small bags of Eight Minute spawn, each just the right size to inoculate a 5-gallon bucket of pellet fuel or roughly 6-8 pounds dry weight of substrate. 
+
+22 oz (624 gms.) pellet fuel (or other peroxide-compatible material) 
+4 Tbs. peroxide-compatible nitrogen supplement (see Volume I for options) 
+0.2 oz (5.7 gms.) hydrated lime or 0.4 oz (11.4 gms.) powdered limestone 
+0.2 oz (5.7 gms.) gypsum (calcium sulfate) 
+990 mls. hot tap water 
+110 mls. 3% hydrogen peroxide 
+
+1) Measure the pellet fuel into a bucket or pot. Add the liquid ingredients and allow the water to get absorbed. 
+2) Add the remaining dry ingredients and mix them in thoroughly with a spoon or spatula. Keep mixing until the pellets have broken down into sawdust. 
+3) Measure 9-10 oz (255-283 gms., or roughly 2.75 cups) of the resulting substrate into six clear food storage bags. Twist the bags loosely closed. 
+4) Heat about 3 inches of water to a rolling boil in a large pot or canning cauldron with some sort of rack or heat diffuser at the bottom. Place all of the bags at once into the boiling water, lowering them in by holding the necks of the bags together. 
+5) Cover the pot and boil for 8 minutes. 
+6) Immediately remove all of the bags and float them on cold water in a wide pan, taking care not to let the mouths of the bags get into the water. 
+7) When the bags have cooled substantially, remove them from the water and tie off the mouths of the bags about an inch or so from the tops with twist ties. 
+8) When the bags have cooled completely, they are ready to inoculate. 
+
+Using the spawn 
+
+Back to Contents 
+
+To use your bag spawn, break up the mycelium the day before you will inoculate, manipulating the bag to turn the clump of mycelium into lumps, and the lumps into smaller particles. Take care not to puncture the bag with your fingernails, or with the twist tie. The next day, when you are ready to pour out the spawn from these bags, be aware that the mouths of the bags are not sterile above the twist ties, so you shouldn't use them like pour spouts. Instead, 
+
+1) pull open the mouth of the bag by grasping from the outside surfaces 
+2) fold the mouth of the bag back on itself, and 
+3) push the spawn out while turning the bag inside out. 
+
+
+
+Preparation of Bulk Substrate 
+
+Bulk Substrate I: 
+
+Back to Contents 
+
+Preparing straw with peroxide -- at room temperature 
+
+Next we come to a method for using peroxide to prepare straw for use as mushroom substrate. This method should be attractive to both the home grower and the commercial cultivator because the procedure can be carried out entirely at room temperature, with no heating and cooling step, and no caustic solution required. This makes substrate preparation very convenient and inexpensive, with no need for set-ups to heat large amounts of water or substrate, no problems with over-pasteurization, and no concerns about the speed of cooling. And in contrast to the hydrated lime soak method presented in Volume I, there is no problematic waste produced by the substrate preparation process, other than the natural "tea" that is normally produced by soaking straw in water. Finally, it should be possible to prepare other similar "drainable" substrates such as bagasse, dried grasses, dried corn leaves, etc., in the same way. Materials of this kind are readily available in most parts of the world. 
+
+I have tested the protocol both with the elm oyster (H. ulmarius) and with the almond mushroom (Agaricus subrufescens), so similar species such as traditional oyster mushrooms (Pleurotus species), Portobellos, white button mushrooms, and Royal Sun Agaricus (Agaricus blazei) should grow well on straw prepared this way. More of a question mark is shiitake, only because it is typically grown on straw with a nitrogen supplement, and I haven't used a supplement to grow the elm oyster and the almond mushroom. 
+
+What about the enzymes? 
+
+Back to Contents 
+
+Here I have to admit that my previous publications all argued that straw could not be usefully pasteurized by treatment with hydrogen peroxide solution. I reasoned that straw contains high levels of peroxide-decomposing enzymes in it (as do other similar substrates), and these enzymes would both destroy the peroxide in short order and protect the numerous mold spores in the straw from the peroxide. Now It turns out that straw nevertheless CAN be pasteurized with hydrogen peroxide. Yes, the peroxide is indeed destroyed by the enzymes in the straw in a relatively short time. But if we raise the peroxide concentration (compared to what I previously employed for pellet fuel preparation), and we tweak the chemistry of the peroxide solution slightly, the peroxide can still have a beneficial effect even in the brief time it survives contact with the straw. And although the peroxide itself does not linger to protect the straw from subsequent contamination, as it does in enzyme-free pellet fuel substrate, the peroxide nevertheless seems to transform the straw into a substrate that is favorable for the growth of mushroom mycelium, one that resists contamination even when the peroxide itself is gone. The peroxide apparently does this at least partly by way of a chemical reaction with the straw. 
+
+The protocol 
+
+Back to Contents 
+
+Despite this complicated explanation, the protocol for preparing straw with peroxide is extremely simple. It goes like this: 
+
+
+1) Place your straw in a large soak vessel. 
+2) Fill the vessel with the appropriate cold solution (see below) to immerse the straw. 
+3) For chopped straw, soak about 4 hours at room temperature. For unchopped straw, soak for at least 28 hrs, or until the leachate takes on the color of a good tea. 
+4) Drain the straw thoroughly, until it is no longer drippy. 
+5) Remove the straw to your culture containers, mixing in spawn as you go. 
+
+
+Notes on straw preparation (keyed to the step numbers): 
+
+Back to Contents 
+
+1) If the soak vessel has a heavy or tight fitting lid, this can help keep the straw submerged in the solution. 
+
+2) The most effective solution I have found so far uses hydrogen peroxide at a concentration of at least 0.15%, combined with 10 mls. of vinegar per liter of soaking solution, or about 2.5 tablespoons vinegar per gallon (higher concentrations of vinegar did not work in mini-trials). 
+
+Curiously enough, an alternative which has proved almost equally effective in mini-trials is hydrated lime (calcium hydroxide, Masons' lime) in peroxide. But here you will use far less hydrated lime than called for by the hydrated lime soak detailed in Volume I. Instead of adding so much hydrated lime that you create something close to a saturated solution, which then creates disposal problems when you drain the straw, you will now add just enough hydrated lime to raise the pH a bit while the peroxide reacts with the straw. You'll use just 1/2-2/3 tsp. hydrated lime per gallon of 0.15% peroxide solution, or 0.4 - 0.5 gms. per liter of solution (higher concentrations of hydrated lime did not work in mini-trials). 
+
+The solutions can be prepared with cold water from the tap, but the best bet is to use water that is not far below room temperature. 
+
+3) I recommend chopping the straw for best results. Chopping the straw promotes more efficient absorption of water, and the smaller particle size encourages faster mycelial growth upon inoculation. 
+
+The wetting of the straw will proceed more quickly in warmer climates, more slowly in colder ones, so adjust your soak times accordingly. 
+
+4) How long you have to drain the straw depends on how much straw you are working with, but a couple of hours will probably be the minimum. 
+
+5) Straw can be mixed with spawn and loaded into plastic columns, for instance. Pasteurized gypsum, if added, can be mixed in at this stage as well. 
+
+I don’t recommend adding nitrogen supplements, as most of the standard ones like bran will invite contaminants. But if you must have a supplement, I would suggest using drainable materials resembling straw, such as alfalfa, which can then be soaked in peroxide solution with the straw. 
+
+Bulk Substrate II: 
+
+An "add-and-stir" method for peroxide-compatible substrates 
+
+Back to Contents 
+
+This next procedure allows you to prepare wood-based mushroom substrate at room temperature, virtually in a single step. Unlike the previous method for straw, this procedure does require that you use a starting material devoid of peroxide-decomposing enzymes. You can use wood pellet fuel, or any similar peroxide-compatible wood product such as composite logs, sawdust-based cat litter, kiln dried sawdust, or paper fiber pellets--just be sure the material is otherwise conducive to the growth of the mushroom species you want to cultivate. As with my earlier methods, the added peroxide will remain in the substrate and protect against airborne contaminants, so there should be no need for air filtration or sterile facilities. The resulting substrate should allow contaminant-free growth of any wood decomposing mushroom species, given an appropriate choice of additives, wood type, and growing conditions. 
+
+In the first volume of Growing Mushrooms the Easy Way, I presented a procedure for preparing wood pellet fuel that required adding boiling water to the pellets as the first step. This served both to pasteurize the pellets and to break them down into sawdust rapidly. Peroxide solution, added only after the pellets had cooled, then served to kill heat resistant spores still present in the substrate and to protect the substrate from airborne contaminants. This procedure works well for the home cultivator, but because of the two steps of liquid addition combined with the need for heating and cooling, it is rather awkward to scale up for commercial cultivation. 
+
+The new procedure presented here avoids the awkwardness of the previous procedure by using a peroxide concentration about 10 fold higher than the previous method. At this level, the peroxide solution itself pasteurizes the pellet fuel at room temperature, so you need no heating and cooling, and you can add the peroxide with all of the water in one step of liquid addition. Moreover, you can add all your other additives like peroxide-compatible nitrogen supplements, lime and gypsum right along with the peroxide solution, so you have what is essentially an "add and stir" method of making ready-to-use mushroom substrate. It is not quite as easy as making pancakes from a mix, because you'll need to wait for the peroxide to pasteurize the substrate. But it is undoubtedly one of the simplest methods of preparing sawdust substrate yet devised. 
+
+The "add-and-stir" protocol 
+
+Back to Contents 
+
+Here’s the new protocol applied to preparing pellet fuel at room temperature: 
+
+
+1) Clean and rinse a container (a boiling water rinse is not required). 
+2) Measure out your lime, peroxide-compatible nitrogen supplement, and gypsum if used, and have them at the ready (see Volume I for determining appropriate supplements and amounts). 
+3) Measure your pellet fuel into the container. 
+4) Measure into a separate container (very roughly) 6.5 quarts of water for every 10 lbs. pellet fuel (but see the note below). The water needs to be at least "room temperature" (68 degrees F) or slightly warm to the touch for proper breakdown of pellets made from dense woods like oak. As in previous protocols, the water also needs to be free of visible particulates. 
+5) To the water, add peroxide to reach a concentration of about 0.45%. 
+6) If you are using a pellet fuel that does not break down easily in water, such as that made from oak, add a teaspoon (5mls.) of baking soda to every 6.5 quarts of peroxide solution as well. 
+7) After stirring the baking soda into the peroxide solution, pour the solution into the pellet fuel; then add the other dry ingredients (I suggest doing it in this order so that the other dry ingredients don’t get stuck on the bottom of the container). 
+8) Close the lid and let the pellets absorb most of the water (this may take 10-15 minutes). 
+9) Mix the substrate thoroughly by rolling the container. 
+10) Let the substrate sit in the closed container for at least 2 hours. 
+11) Mix the substrate thoroughly again. By this time, the substrate should be at least about half in the form of sawdust and half as the round remnants of pellets. 
+12) Inoculate the substrate and divide into bags. 
+
+Notes on the "add-and-stir" protocol: 
+
+Back to Contents 
+
+As always, it is best to use woods favored by the mushroom species you want to grow. In general, avoid resinous woods like cedar and pine. 
+
+You will probably have to experiment a bit to find the right amount of water to add, as this varies with the kind of wood your pellets are made of, and with the kind of substrate if you are not using wood pellets. You want to add enough water to break down the substrate to particles, but the material left at the bottom of the container (when you pour out the substrate into bags) ideally should be moist but not visibly wet. Pellets made from lighter woods will probably absorb more water per weight of pellets than those made from denser woods. 
+
+If you are using a substrate material that resists wetting, such as kiln dried sawdust, you can add a small amount (1/4 tsp. per 6.5 qts. water) of biodegradable dish detergent to speed up water absorption. 
+
+The high peroxide concentration used in this protocol is most easily accomplished with a peroxide stock solution that is more concentrated than the usual drugstore product. I have used 1/3 cup of swimming pool peroxide (labeled 27%, but it actually tested at 34% by decomposition) for 6.5 quarts of water. You could also use food grade (35%) or similar solutions. Remember that these concentrated products are much more hazardous than the 3% solution. The liquid can cause burns, fires, or explosions, so it should be treated with considerable respect. Read the warning label and act accordingly. 
+
+The substrate can be mixed the first time with non-pasteurized implements, if this is more convenient than rolling the container. After this first mixing, however, non-pasteurized implements should be kept out of the substrate, and only pasteurized (i.e. boiling-water rinsed) implements should be used. 
+
+What about making spawn by the "add-and-stir" approach? The verdict isn't in yet on whether this will give spawn that is clean enough for reliable use. But you are welcome to try it. Just mix up some medium as for Eight Minute spawn above, or as spelled out in Volume I (Ten Minute spawn), but increase the peroxide concentration to 0.45%. If you are using jars, wet the cardboard disks inside the lids with3% peroxide. Then let the spawn sit, closed up in its container, for at least two hours (overnight might be safer) before inoculating. 
+
+Bulk Substrate III: Preparing bulk substrate by baking 
+
+Back to Contents 
+
+One way to prepare "raw" substrates so that you can use them with the peroxide method like you would use pellet fuel is to bake the substrates in an oven. Baking eventually will to destroy the peroxide-decomposing enzymes in any substrate. For instance, although raw sawdust is rich in peroxide-decomposing enzymes, kiln-dried sawdust (that is, sawdust from milling of kiln-dried lumber) has almost no peroxide-decomposing activity left in it. Although baking will be a less-than-ideal procedure for many mushroom growers because of the energy costs, lack of oven space, and the odors generated by the procedure, it nevertheless may come in quite handy for some. If you are a hobbyist who only has an ordinary kitchen pressure cooker, baking in your oven may allow you to prepare a larger batch of substrate than you could otherwise manage. And in areas where sunlight is plentiful, you could bake your substrate outdoors in a large solar oven built especially for this purpose, solving the problems of energy cost, odors, and oven space all at once. 
+
+The baking process 
+
+Back to Contents 
+
+You will have to work out for yourself the exact details of temperature and time for baking the particular substrate you have in mind, given the variety of possible substrates with different moisture contents and particle sizes. In general, however, you will bake at 275-300 degrees F (about 150 degrees C) for several hours, or long enough to raise the temperature inside the substrate to 250 degrees F (121 degrees C) for at least 20 minutes. Then let the substrate continue baking after turning off the oven. Wet materials will take longer to reach the necessary temperature. Wide pans will facilitate heat penetration. 
+
+To test your substrate to see whether your baking has had the desired effect, 
+
+1) remove a small amount and place it in a cup or small jar 
+2) add enough 3% peroxide solution to cover the substrate 
+3) add a drop of detergent to encourage the solution to penetrate. 
+
+
+If you see no more than a thin, fine fizz on the surface after fifteen minutes, you are probably in the clear. 
+
+Using baked substrate 
+
+Back to Contents 
+
+Once your substrate has been sufficiently baked, you can cool it down and store it for later use; or you can use it immediately. Either way, you will have to experiment to determine what amount of water your substrate will absorb successfully, and what amount of moistened substrate will fit comfortably into your container. 
+
+I will assume your substrate is a non-drainable, porous material like sawdust (most drainable materials can be prepared without baking by following the protocol for straw above). Then you can prepare it for use following the "add-and-stir" protocol above. You just will not need to concern yourself with the parts of that protocol that have to do with getting the wood pellets to break down into sawdust. Instead, all you have to do is: 
+
+1) mix your substrate with peroxide solution and whatever other additives you use., and 
+2) let the mixture sit for a couple of hours to give the peroxide time to pasteurize it. 
+
+If your substrate is a drainable material, like wood chips, the protocol is even simpler. You will just need to soak the material in peroxide solution until it has reached a workable moisture content. Then it will be ready to inoculate. 
+
+If the cost of peroxide is a significant concern in your locale, you can reduce the final peroxide concentration by a factor of eight by heat-pasteurizing both your substrate mixture and the water you use to add your peroxide. To go this route, you will need to 
+
+1) clean your container and rinse it with boiling water 
+2) divide your total water in half 
+3) add half of it as boiling water to the substrate mixed with your lime, peroxide-compatible nitrogen supplement, and gypsum (if used) 
+4) boil and cool the other half of your water in a pot with a lid 
+add enough peroxide to the boiled, cooled water to give a concentration of about 0.1% (a little over 1/2 cup--136 mls.--of 3% peroxide per gallon , or 36 mls. per liter) 
+5) when the substrate has cooled somewhat add the peroxide solution to the substrate and mix thoroughly 
+6) let the mixture cool completely, then inoculate. 
+
+(A possible alternative to boiling and cooling water for the peroxide solution is to use water that has been purified by reverse osmosis, since such water is sterile as it emerges from the membrane). 
+
+Conclusion 
+
+Back to Contents 
+
+The procedures I've spelled out in this supplement give a glimpse of the tremendous variety possible in mushroom growing techniques. At any given time, I usually have at least a few ideas for new tricks that I haven't had a chance to test, and I know from the correspondence I get that many of my readers have their own fascinating ideas as well. I hope this volume stimulates further creativity in this rapidly growing field. 
+
+
+
+-------------------------------------------------- ------------------------------ 
+
+
+
+About the Author 
+
+Back to Contents 
+
+Rush Wayne holds a Masters degree in Biochemistry and Molecular Biology from Harvard University and a Ph.D. in Biochemistry from the University of California at Berkeley. He was first exposed to the elements of mushroom growing during his graduate work in the 1970’s but did not begin growing mushrooms in earnest until he began to implement the innovations contained in this manual in 1993. Instructions for his peroxide method of growing mushrooms are now in the hands of mushroom growers in over 65 countries around the world.
